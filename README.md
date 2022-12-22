@@ -20,7 +20,7 @@ wget "https://github.com/AAlhendi1707/htseq-merge/blob/master/htseq-merge_all.R?
 
 2- From Linux/UNIX terminal run
 ```shell
-Rscript htseq-combine_all.R <Path_To_HTSEQ_Outputs> <Reacount_matrix_output_name>
+Rscript htseq-merge_all.R <Path_To_HTSEQ_Outputs> <Reacount_matrix_output_name>
 ```
 
 A detailed example can be found [here](https://ahmedalhendi0.wordpress.com/2019/03/20/combine-htseq-outputs-into-one-read-count-matrix-in-r/)
